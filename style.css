@@ -56,10 +56,13 @@ button:hover {
 }
 
 .task {
-  background-color: #f9f9f9;
+  background-color: #ebebeb;
   margin: 10px 0;
   padding: 10px;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .task p {
