@@ -65,10 +65,6 @@ button:hover {
   align-items: center;
 }
 
-.task p {
-  margin: 0 0 5px 0;
-}
-
 .task button {
   padding: 5px 10px;
   font-size: 13px;
